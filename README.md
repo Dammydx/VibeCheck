@@ -2,6 +2,9 @@
 
 VibeCheck is a modern event management platform built with React, Tailwind CSS, and Supabase. It provides a seamless experience for users to browse, register for events, and manage their event passes, while giving administrators powerful tools to manage events and attendees.
 
+## Live Site
+🌍 [View the website](#) *(https://dammydx.github.io/SwiftHaul
+
 ## Features
 
 - 🎫 Browse and register for events
